@@ -75,4 +75,5 @@ class Main extends PluginBase {
 		$form->addButton("UWU RANK");
 		$form->sendToPlayer($player);
 		return $form;
+	}
 }
