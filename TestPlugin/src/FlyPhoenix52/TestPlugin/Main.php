@@ -12,7 +12,7 @@ use pocketmine\command\CommandSender;
 
 use onebone\economyapi\EconomyAPI;
 
-class main extends PluginBase {
+class Main extends PluginBase {
 
 	public function onCommand(CommandSender $sender, Command $cmd, String $Label, Array $args) : bool {
 
