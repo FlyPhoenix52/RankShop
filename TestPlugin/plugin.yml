@@ -1,0 +1,9 @@
+name: TestPlugin
+main: FlyPhoenix52\TestPlugin\Main
+author: FlyPhoenix52
+api: 3.0.0
+version: 0.0.1
+
+commands:
+  rankshop:
+    description: "RankShop"
